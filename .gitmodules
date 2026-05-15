@@ -1,0 +1,3 @@
+[submodule "ENTropy-Gateway"]
+	path = ENTropy-Gateway
+	url = git@github.com:DAD-group-1/ENTropy-Gateway.git
