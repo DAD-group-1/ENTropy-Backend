@@ -2,7 +2,7 @@
 	path = ENTropy-Gateway
 	url = git@github.com:DAD-group-1/ENTropy-Gateway.git
 	branch = main
-[submodule "ENTropy-Users"]
-	path = ENTropy-Users
-	url = git@github.com:DAD-group-1/ENTropy-Users.git
+[submodule "ENTropy-Backend-MS-Users"]
+	path = ENTropy-Backend-MS-Users
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Users.git
 	branch = main
