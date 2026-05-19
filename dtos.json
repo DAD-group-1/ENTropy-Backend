@@ -1,0 +1,19 @@
+{
+  "dtos": [
+    {
+      "name": "Students DTO",
+      "gatewayPath": "ENTropy-Backend-Gateway/src/users/students/interfaces",
+      "microservicePath": "ENTropy-Backend-MS-Users/src/core/students/interfaces"
+    },
+    {
+      "name": "Instructors DTO",
+      "gatewayPath": "ENTropy-Backend-Gateway/src/users/instructors/interfaces",
+      "microservicePath": "ENTropy-Backend-MS-Users/src/core/instructors/interfaces"
+    },
+    {
+      "name": "Users DTO",
+      "gatewayPath": "ENTropy-Backend-Gateway/src/users/users/interfaces",
+      "microservicePath": "ENTropy-Backend-MS-Users/src/core/users/interfaces"
+    }
+  ]
+}

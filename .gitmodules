@@ -1,6 +1,6 @@
-[submodule "ENTropy-Gateway"]
-	path = ENTropy-Gateway
-	url = git@github.com:DAD-group-1/ENTropy-Gateway.git
+[submodule "ENTropy-Backend-Gateway"]
+	path = ENTropy-Backend-Gateway
+	url = git@github.com:DAD-group-1/ENTropy-Backend-Gateway.git
 	branch = main
 [submodule "ENTropy-Backend-MS-Users"]
 	path = ENTropy-Backend-MS-Users
