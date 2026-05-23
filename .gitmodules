@@ -1,3 +1,7 @@
+[submodule "ENTropy-Backend-Common"]
+	path = ENTropy-Backend-Common
+	url = git@github.com:DAD-group-1/ENTropy-Backend-Common.git
+	branch = main
 [submodule "ENTropy-Backend-Gateway"]
 	path = ENTropy-Backend-Gateway
 	url = git@github.com:DAD-group-1/ENTropy-Backend-Gateway.git
