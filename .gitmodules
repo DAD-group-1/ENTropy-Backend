@@ -10,7 +10,3 @@
 	path = ENTropy-Backend-MS-Users
 	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Users.git
 	branch = main
-[submodule "ENTropy-Backend-MS-Authentication"]
-	path = ENTropy-Backend-MS-Authentication
-	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Authentication.git
-	branch = main
