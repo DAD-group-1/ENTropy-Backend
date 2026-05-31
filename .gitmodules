@@ -10,3 +10,27 @@
 	path = ENTropy-Backend-MS-Users
 	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Users.git
 	branch = main
+[submodule "ENTropy-Backend-MS-Enrollment"]
+	path = ENTropy-Backend-MS-Enrollment
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Enrollment.git
+	branch = main
+[submodule "ENTropy-Backend-MS-Attendances"]
+	path = ENTropy-Backend-MS-Attendances
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Attendances.git
+	branch = main
+[submodule "ENTropy-Backend-MS-Billing"]
+	path = ENTropy-Backend-MS-Billing
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Billing.git
+	branch = main
+[submodule "ENTropy-Backend-MS-Infrastructures"]
+	path = ENTropy-Backend-MS-Infrastructures
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Infrastructures.git
+	branch = main
+[submodule "ENTropy-Backend-MS-Schedules"]
+	path = ENTropy-Backend-MS-Schedules
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Schedules.git
+	branch = main
+[submodule "ENTropy-Backend-MS-Courses"]
+	path = ENTropy-Backend-MS-Courses
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Courses.git
+	branch = main
