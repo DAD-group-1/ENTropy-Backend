@@ -34,3 +34,6 @@
 	path = ENTropy-Backend-MS-Courses
 	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Courses.git
 	branch = main
+[submodule "ENTropy-Backend-MS-Notifications"]
+	path = ENTropy-Backend-MS-Notifications
+	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Notifications.git
