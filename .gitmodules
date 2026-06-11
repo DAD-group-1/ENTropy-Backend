@@ -37,3 +37,8 @@
 [submodule "ENTropy-Backend-MS-Notifications"]
 	path = ENTropy-Backend-MS-Notifications
 	url = git@github.com:DAD-group-1/ENTropy-Backend-MS-Notifications.git
+	branch = main
+[submodule "ENTropy-Ai-Agent"]
+	path = ENTropy-Ai-Agent
+	url = git@github.com:DAD-group-1/ENTropy-Ai-Agent.git
+	branch = main
